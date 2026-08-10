@@ -4,7 +4,7 @@
 
 ### `Desenvolvedor em formação` · `DSM` · `Full Stack em construção`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+constante+evolução;JavaScript+%7C+TypeScript+%7C+React;Construindo+projetos+reais;Transformando+ideias+em+código+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+constante+evolucao;JavaScript+%7C+TypeScript+%7C+React;Construindo+projetos+reais;Transformando+ideias+em+codigo" alt="Typing SVG">
 
 <br>
 
@@ -48,7 +48,11 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Re
 
 ### ⚛️ Frameworks & Desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,expo,vite" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
 
 ### 🗄️ Banco de Dados
 
@@ -217,7 +221,7 @@ console.log(`${lucas.role} → BUILD. LEARN. CREATE.`);
 
 <br><br>
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:Lucasrodriguessptv@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
