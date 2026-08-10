@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lucas Amorim
+# Lucas Amorim
 
 ### `Desenvolvedor em formação` · `DSM` · `Full Stack em construção`
 
