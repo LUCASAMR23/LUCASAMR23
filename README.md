@@ -1,8 +1,10 @@
 <div align="center">
 
-# Lucas Amorim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=header" />
 
-### `Desenvolvedor em formação` · `DSM` · `Full Stack em construção`
+# 👋 Olá, eu sou Lucas Amorim
+
+### `Desenvolvedor em formação` • `DSM` • `Full Stack em construção`
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+constante+evolucao;JavaScript+%7C+TypeScript+%7C+React;Construindo+projetos+reais;Transformando+ideias+em+codigo" alt="Typing SVG">
 
@@ -11,6 +13,8 @@
 <a href="https://github.com/LUCASAMR23">
   <img src="https://img.shields.io/badge/GitHub-LUCASAMR23-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
+
+</div>
 
 </div>
 
@@ -125,13 +129,13 @@ Projetos desenvolvidos ao longo da minha formação para praticar **front-end, b
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCASAMR23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=LUCASAMR23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASAMR23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LUCASAMR23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=LUCASAMR23&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=LUCASAMR23&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
