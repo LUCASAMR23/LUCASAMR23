@@ -1,241 +1,197 @@
-::: {align="center"}
-# 👋 Olá, eu sou Lucas Amorim!
+<div align="center">
 
-### `Desenvolvedor em formação` • `DSM` • `Full Stack em construção`
+# 👋 Olá, eu sou Lucas Amorim
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+constante+evolução;JavaScript+%7C+TypeScript+%7C+React;Construindo+projetos+e+meu+portfólio;Transformando+ideias+em+código+%F0%9F%9A%80" alt="Typing animation" />`{=html}
+### `Desenvolvedor em formação` · `DSM` · `Full Stack em construção`
 
-`<br>`{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+constante+evolução;JavaScript+%7C+TypeScript+%7C+React;Construindo+projetos+reais;Transformando+ideias+em+código+🚀" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCASAMR23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/)
-:::
+<br>
 
-------------------------------------------------------------------------
+<a href="https://github.com/LUCASAMR23">
+  <img src="https://img.shields.io/badge/GitHub-LUCASAMR23-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+</div>
+
+---
 
 ## 🧑‍💻 Sobre mim
 
-``` text
-> INICIANDO SISTEMA...
-> CARREGANDO PERFIL...
-> STATUS: ONLINE ✓
-
-Nome       : Lucas Amorim
-Área       : Desenvolvimento de Software
-Formação   : Desenvolvimento de Software Multiplataforma (DSM)
-Foco       : Web • Mobile • Back-end • Banco de Dados
-Objetivo   : Evoluir como desenvolvedor e construir soluções reais
+```text
+╔══════════════════════════════════════════╗
+║              LUCAS AMORIM                ║
+╠══════════════════════════════════════════╣
+║ Área       → Desenvolvimento de Software ║
+║ Formação   → DSM                         ║
+║ Foco       → Web • Mobile • Back-end     ║
+║ Interesse  → APIs • Banco de Dados       ║
+║ Status     → Desenvolvendo 🚀            ║
+╚══════════════════════════════════════════╝
 ```
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma**,
-apaixonado por tecnologia e programação.
+Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** e apaixonado por tecnologia, programação e criação de soluções.
 
-Atualmente estou fortalecendo meus conhecimentos em **JavaScript,
-TypeScript, React, Node.js, PHP, MySQL e desenvolvimento web**, enquanto
-desenvolvo projetos para colocar meus conhecimentos em prática.
+Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, React, React Native, Node.js, PHP e bancos de dados**, desenvolvendo projetos para transformar conhecimento em experiência prática.
 
-Meu objetivo é construir um portfólio cada vez mais sólido, aprender
-boas práticas de desenvolvimento e, futuramente, atuar profissionalmente
-na área de tecnologia.
+🎯 Meu objetivo é evoluir como desenvolvedor, construir projetos cada vez mais completos e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-------------------------------------------------------------------------
+---
 
 ## ⚡ Tech Stack
 
+<div align="center">
+
 ### 💻 Linguagens
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />`{=html}
-```{=html}
-</p>
-```
-### ⚛️ Frameworks e desenvolvimento
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=react,nodejs,express,expo,vite" />`{=html}
-```{=html}
-</p>
-```
-### 🗄️ Banco de dados
+### ⚛️ Frameworks & Desenvolvimento
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=mysql" />`{=html}
-```{=html}
-</p>
-```
-### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,expo,vite" />
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,aws" />`{=html}
-```{=html}
-</p>
-```
+### 🗄️ Banco de Dados
 
-------------------------------------------------------------------------
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-## 🚀 O que estou estudando
+### 🛠️ Ferramentas & Cloud
 
-``` text
-[██████████████████░░] JavaScript
-[████████████████░░░░] TypeScript
-[███████████████░░░░░] React
-[██████████████░░░░░░] Node.js
-[██████████████░░░░░░] MySQL
-[████████████░░░░░░░░] PHP
-[████████████░░░░░░░░] Docker
-[███████████░░░░░░░░░] AWS
-```
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,aws" />
 
-> Os níveis acima são apenas uma representação visual do que estou
-> estudando no momento --- estou sempre aprendendo e evoluindo.
+</div>
 
-------------------------------------------------------------------------
+---
 
-## 📂 Projetos em destaque
+## 🚀 Projetos
 
-### 🧮 Calculadora
+### 🐾 VetPrime
 
-Aplicação desenvolvida para praticar **JavaScript, lógica de
-programação, variáveis, operadores e entrada de dados**.
+Sistema web desenvolvido durante minha formação para uma **clínica veterinária**, trabalhando conceitos de interface, organização de informações e desenvolvimento web.
 
-**Tecnologias:** JavaScript
+**Stack:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-------------------------------------------------------------------------
+---
 
-### 📱 Aplicações com React Native
+### 🎵 Harmony
 
-Projetos mobile desenvolvidos com **React Native e Expo**, explorando
-componentes, navegação, formulários e gerenciamento de estados.
+Projeto desenvolvido durante minha formação com foco em **música e desenvolvimento web**, explorando interface, organização de conteúdo e experiência do usuário.
 
-**Tecnologias:** React Native • Expo • TypeScript
+**Stack:** `HTML` `CSS` `JavaScript`
 
-------------------------------------------------------------------------
+---
+
+### 📱 Aplicações Mobile
+
+Projetos desenvolvidos utilizando **React Native + Expo**, explorando componentes, navegação, formulários, estados e armazenamento local.
+
+**Stack:** `React Native` `Expo` `TypeScript`
+
+---
 
 ### 🌐 Projetos Web
 
-Projetos desenvolvidos durante minha formação, utilizando **HTML, CSS,
-JavaScript, PHP e MySQL**.
+Projetos desenvolvidos ao longo da minha formação para praticar **front-end, back-end, APIs e banco de dados**.
 
-**Tecnologias:** HTML • CSS • JavaScript • PHP • MySQL
+**Stack:** `JavaScript` `TypeScript` `React` `Node.js` `PHP` `MySQL`
 
-------------------------------------------------------------------------
+> 🔎 Novos projetos serão adicionados conforme minha evolução.
 
-### 🎨 Projetos de interface
+---
 
-Interfaces desenvolvidas com foco em organização visual, experiência do
-usuário e prototipação.
+## 🧠 Atualmente estudando
 
-**Tecnologias:** Figma • HTML • CSS • React
+<div align="center">
 
-------------------------------------------------------------------------
+|    Tecnologia   | Foco                                |
+| :-------------: | :---------------------------------- |
+|  🟨 JavaScript  | Fundamentos e aplicações            |
+|  🔷 TypeScript  | Tipagem e desenvolvimento escalável |
+|     ⚛️ React    | Interfaces e aplicações web         |
+|    🟢 Node.js   | Back-end e APIs                     |
+| 📱 React Native | Desenvolvimento mobile              |
+|     🗄️ SQL     | Banco de dados                      |
+|    🐳 Docker    | Containers e ambientes              |
+|      ☁️ AWS     | Cloud Computing                     |
 
-> 🔎 Estou constantemente adicionando novos projetos ao meu GitHub.
+</div>
 
-------------------------------------------------------------------------
-
-## 🎯 Objetivos atuais
-
-``` text
-✓ Evoluir em JavaScript
-✓ Aprofundar TypeScript
-✓ Desenvolver aplicações com React
-✓ Aprender e praticar Node.js
-✓ Trabalhar com APIs
-✓ Melhorar meus conhecimentos em bancos de dados
-✓ Aprender Docker e ambientes de desenvolvimento
-✓ Criar projetos cada vez mais completos
-✓ Construir um portfólio profissional
-□ Conseguir minha primeira oportunidade na área
-□ Me tornar um desenvolvedor cada vez mais completo
-```
-
-------------------------------------------------------------------------
+---
 
 ## 📊 GitHub Stats
 
-::: {align="center"}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCASAMR23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>`{=html}
+<div align="center">
 
-`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASAMR23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>`{=html}
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCASAMR23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-`<br>`{=html}`<br>`{=html}
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASAMR23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-`<img src="https://streak-stats.demolab.com?user=LUCASAMR23&theme=tokyonight&hide_border=true" />`{=html}
-:::
+<br><br>
 
-------------------------------------------------------------------------
+<img src="https://streak-stats.demolab.com?user=LUCASAMR23&theme=tokyonight&hide_border=true" />
 
-## 🐍 Minhas contribuições
+</div>
 
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />`{=html}
-:::
+---
 
-------------------------------------------------------------------------
+## 🐍 Contribution Snake
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-::: {align="center"}
-`<img src="https://github-profile-trophy.vercel.app/?username=LUCASAMR23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />`{=html}
-:::
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
-------------------------------------------------------------------------
+</div>
 
-## 📈 Atividade
+---
 
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=LUCASAMR23&theme=tokyo-night&hide_border=true" />`{=html}
-:::
+## 📈 Activity
 
-------------------------------------------------------------------------
+<div align="center">
 
-## 🧰 Ferramentas que fazem parte do meu dia a dia
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LUCASAMR23&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
-  Ferramenta        Utilização
-  ----------------- -----------------------------
-  🐙 Git & GitHub   Versionamento e colaboração
-  💻 VS Code        Desenvolvimento
-  🐳 Docker         Containers e ambientes
-  🎨 Figma          Prototipação e interfaces
-  🗄️ MySQL          Banco de dados
-  ☁️ AWS            Computação em nuvem
-  ⚛️ React          Interfaces web
-  📱 React Native   Aplicações mobile
-  🟢 Node.js        Back-end e APIs
+</div>
 
-------------------------------------------------------------------------
+---
 
-## 🧠 Em constante aprendizado
+## 🎯 Objetivos
 
-``` javascript
+```text
+[✓] Aprender JavaScript
+[✓] Aprender TypeScript
+[✓] Desenvolver projetos Web
+[✓] Desenvolver aplicações Mobile
+[✓] Trabalhar com bancos de dados
+
+[ ] Aprofundar React
+[ ] Aprofundar Node.js
+[ ] Trabalhar com APIs
+[ ] Aprender Docker
+[ ] Evoluir em Cloud / AWS
+[ ] Criar projetos Full Stack mais completos
+[ ] Conquistar minha primeira oportunidade na área
+```
+
+---
+
+## 💻 Um pouco de código
+
+```javascript
 const lucas = {
-  foco: [
-    "Desenvolvimento Web",
-    "Desenvolvimento Mobile",
-    "Back-end",
-    "Banco de Dados"
-  ],
+  role: "Desenvolvedor em formação",
 
-  tecnologias: [
+  education: "Desenvolvimento de Software Multiplataforma",
+
+  stack: [
     "JavaScript",
     "TypeScript",
     "React",
     "React Native",
     "Node.js",
     "PHP",
-    "MySQL"
+    "SQL"
   ],
 
-  ferramentas: [
+  tools: [
     "Git",
     "GitHub",
     "Docker",
@@ -243,31 +199,36 @@ const lucas = {
     "AWS"
   ],
 
-  objetivo: "Transformar conhecimento em projetos reais 🚀"
+  goal: "Transformar conhecimento em projetos reais 🚀"
 };
 
-console.log("Sistema iniciado com sucesso!");
+console.log(`${lucas.role} → BUILD. LEARN. CREATE.`);
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 📫 Vamos nos conectar?
 
-::: {align="center"}
-Se você gosta de tecnologia, programação e desenvolvimento de software,
-fique à vontade para acompanhar meus projetos e entrar em contato.
+<div align="center">
 
-`<br>`{=html}
+<a href="https://github.com/LUCASAMR23">
+  <img src="https://img.shields.io/badge/GitHub-LUCASAMR23-181717?style=for-the-badge&logo=github" />
+</a>
 
-`<a href="https://github.com/LUCASAMR23">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-LUCASAMR23-181717?style=for-the-badge&logo=github" />`{=html}
-`</a>`{=html}
-:::
+<br><br>
 
-------------------------------------------------------------------------
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-::: {align="center"}
+</div>
+
+---
+
+<div align="center">
+
 ### `> BUILD. LEARN. CREATE. REPEAT. 🚀`
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=100&section=footer" />`{=html}
-:::
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=100&section=footer" />
+
+</div>
