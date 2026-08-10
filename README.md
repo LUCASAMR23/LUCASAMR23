@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=header" />
 
-# 👋 Olá, eu sou Lucas Amorim
+# Lucas Amorim
 
 ### `Desenvolvedor em formação` • `DSM` • `Full Stack em construção`
 
