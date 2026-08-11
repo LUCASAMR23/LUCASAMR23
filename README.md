@@ -145,7 +145,7 @@ Projetos desenvolvidos ao longo da minha formação para praticar **front-end, b
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/LUCASAMR23/LUCASAMR23/output/github-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
 
