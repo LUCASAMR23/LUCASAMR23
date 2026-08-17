@@ -28,17 +28,17 @@
 ╠══════════════════════════════════════════╣
 ║ Área       → Desenvolvimento de Software ║
 ║ Formação   → DSM                         ║
-║ Foco       → Web • Mobile • Back-end     ║
+║ Foco       → Web •  • Back-end           ║
 ║ Interesse  → APIs • Banco de Dados       ║
-║ Status     → Desenvolvendo 🚀            ║
+║ Status     → Desenvolvendo               ║
 ╚══════════════════════════════════════════╝
 ```
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** e apaixonado por tecnologia, programação e criação de soluções.
+Sou estudante de **Desenvolvimento de Software Multiplataforma ** e apaixonado por tecnologia, programação e criação de soluções.
 
 Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, React, React Native, Node.js, PHP e bancos de dados**, desenvolvendo projetos para transformar conhecimento em experiência prática.
 
-🎯 Meu objetivo é evoluir como desenvolvedor, construir projetos cada vez mais completos e conquistar minha primeira oportunidade profissional na área de tecnologia.
+ Meu objetivo é evoluir como desenvolvedor, construir projetos cada vez mais completos e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
