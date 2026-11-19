@@ -72,37 +72,35 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Re
 
 ## 🚀 Projetos
 
-### 🐾 VetPrime
+### 💰 [MeuBolso](https://github.com/LUCASAMR23/MeuBolso)
 
-Sistema web desenvolvido durante minha formação para uma **clínica veterinária**, trabalhando conceitos de interface, organização de informações e desenvolvimento web.
+Aplicação full-stack de finanças pessoais com autenticação, lançamentos, metas e painel mensal.
 
-**Stack:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+**Stack:** `React` `TypeScript` `Node.js` `Express` `JWT` `PostgreSQL`
 
----
+### 🍲 [SaborDaCasa](https://github.com/LUCASAMR23/SaborDaCasa)
 
-### 🎵 Harmony
+Aplicação responsiva para descobrir receitas, filtrar pratos e favoritar receitas.
 
-Projeto desenvolvido durante minha formação com foco em **música e desenvolvimento web**, explorando interface, organização de conteúdo e experiência do usuário.
+**Stack:** `React` `TypeScript` `Vite`
 
-**Stack:** `HTML` `CSS` `JavaScript`
+### 🌿 [VivaLeve](https://github.com/LUCASAMR23/VivaLeve)
 
----
-
-### 📱 Aplicações Mobile
-
-Projetos desenvolvidos utilizando **React Native + Expo**, explorando componentes, navegação, formulários, estados e armazenamento local.
+Aplicativo mobile de bem-estar com organização de hábitos e sugestões alimentares educativas.
 
 **Stack:** `React Native` `Expo` `TypeScript`
 
----
+### 🏅 [ScrumFlow](https://github.com/DEVassos/scrum-flow-abp)
 
-### 🌐 Projetos Web
+Projeto acadêmico em equipe: portal de certificação em metodologias ágeis, desenvolvido pela equipe DEVassos.
 
-Projetos desenvolvidos ao longo da minha formação para praticar **front-end, back-end, APIs e banco de dados**.
+**Stack:** `JavaScript` `Node.js` `PostgreSQL`
 
-**Stack:** `JavaScript` `TypeScript` `React` `Node.js` `PHP` `MySQL`
+### 🌎 [EcoPulse](https://github.com/DEVassos/ecopulse-app)
 
-> 🔎 Novos projetos serão adicionados conforme minha evolução.
+Projeto colaborativo para estimar o impacto ambiental de aplicações de software.
+
+**Stack:** `TypeScript`
 
 ---
 
